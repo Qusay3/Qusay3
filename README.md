@@ -1,6 +1,6 @@
 ### Hi there, I'm Qusay Ahmed👋
 
-<!--
+
 **Qusay3/Qusay3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 👯 aspiring to be a full-stack practitioner in these fields
 - ⚡ Fun fact: I'm a die-hard football fan, and my heart belongs to Arsenal!
 
--->
+
