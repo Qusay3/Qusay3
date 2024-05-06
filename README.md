@@ -4,8 +4,6 @@
    
 # Hi there, I'm Qusay Ahmed👋
 
-
-
 	About Me:
 
 	
@@ -14,4 +12,3 @@
 	  - 👯 aspiring to be a full-stack practitioner in these fields
 	  - ⚡ Fun fact: I'm a die-hard football fan, and my heart belongs to Arsenal!
 	
-
