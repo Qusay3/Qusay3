@@ -4,7 +4,7 @@
    
 # Hi there, I'm Qusay Ahmed👋
 
-	About Me:
+	## About Me:
 
 	
 	  - 📚️ I'm currently a student specializing in AI solutions development, building on my background in computer science.
@@ -12,3 +12,11 @@
 	  - 👯 aspiring to be a full-stack practitioner in these fields
 	  - ⚡ Fun fact: I'm a die-hard football fan, and my heart belongs to Arsenal!
 	
+
+
+	## Software and Tools:
+
+ 	  - Visual Studio Code
+    	  - Anaconda
+       	  - Jupyter Notebook
+	  - Git
