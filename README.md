@@ -16,7 +16,7 @@
 
 	## Software and Tools:
 
- 	  - Visual Studio Code
-    	  - Anaconda
-       	  - Jupyter Notebook
-	  - Git
+ 	- Visual Studio Code
+ 	- Anaconda
+ 	- Jupyter Notebook
+ 	- Git
